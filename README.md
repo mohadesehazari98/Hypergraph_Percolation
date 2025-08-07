@@ -41,3 +41,5 @@ We report two rates:
 2. **Filtered rate** – number of successful distributions where fidelity exceeds a predefined threshold, along with the **average fidelity** of these above-threshold events.
 
 ---
+
+We are yet to omplete the hypergraph case 
