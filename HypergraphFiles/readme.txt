@@ -2,10 +2,10 @@ This is a readme file!
 
 This folder includes the following Python files:
 >> Graph0_HelperFunc.py
->> Hypergraph0_HelperFunc.py
->> Hypergraph1_RunWorker.py
->> Hypergraph2_PlotData.py
->> Hypergraph3_ThreeDPlot.py
+  >> Hypergraph0_HelperFunc.py
+    >> Hypergraph1_RunWorker.py
+      >> Hypergraph2_PlotData.py
+        >> Hypergraph3_ThreeDPlot.py
 
 Step 1:
 Please save the two helper function Graph0_HelperFunc.py and Hypergraph0_HelperFunc.py
